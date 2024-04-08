@@ -40,12 +40,12 @@ a:focus{
 }
 
 ::-moz-selection{
-	background: #59e2ae;
+	background: #263eee;
 	color: #fff;
 }
 
 ::selection{
-	background: #59e2ae;
+	background: #263eee;
 	color: #fff;
 }
 
@@ -81,7 +81,7 @@ a:focus{
     width: 30px;
     height: 30px;
     border-radius: 2px;
-    background: #59e2ae;
+    background: #263eee;
     -webkit-transform: translateY(0) rotate(45deg) scale(0);
     transform: translateY(0) rotate(45deg) scale(0);
     -webkit-animation: diamonds 1500ms linear infinite;
@@ -182,7 +182,7 @@ header .navbar{
 }
 
 .navbar-brand h1 span{
-	color: #59e2ae;
+	color: #263eee;
 }
 
 header .navbar-collapse.collapse{
@@ -209,7 +209,7 @@ header .navbar-collapse.collapse{
 
 .navbar .navbar-nav .nav-link.active{
 	background: none;
-	color: #59e2ae;
+	color: #263eee;
 }
 
 .navbar .navbar-nav .nav-link:hover,
@@ -219,7 +219,7 @@ header .navbar-collapse.collapse{
 
 .navbar .navbar-nav .nav-link.active:hover,
 .navbar .navbar-nav .nav-link.active:focus{
-	color: #59e2ae;
+	color: #263eee;
 }
 
 header .navbar.sticky-header{
@@ -276,7 +276,7 @@ header .navbar.sticky-header{
 
 .slicknav_nav a:hover{
 	background: none;
-	color: #59e2ae;
+	color: #376fe7;
 }
 
 /************************************/
@@ -330,8 +330,8 @@ header .navbar.sticky-header{
 }
 
 .btn-download:hover{
-	border-color: #59e2ae;
-	color: #59e2ae;
+	border-color: #376fe7;
+	color: #376fe7;
 }
 
 /**************************************/
@@ -358,12 +358,12 @@ header .navbar.sticky-header{
 	position: absolute;
 	bottom: 0;
 	left: 50%;
-	border-bottom: 10px dotted #59e2ae;
+	border-bottom: 10px dotted #376fe7;
 }
 
 .section-title h2{
-	color: #59e2ae;
-	font-family: 'Berkshire Swash', cursive;
+	color: #376fe7;
+	
 	font-weight: normal;
 	font-size: 36px;
 }
@@ -409,7 +409,7 @@ header .navbar.sticky-header{
 	display: block;
 	width: 40px;
 	height: 4px;
-	background: #59e2ae;
+	background: #376fe7;
 	position: absolute;
 	left: 0;
 	bottom: 0;
@@ -446,7 +446,7 @@ header .navbar.sticky-header{
 }
 
 .about-content ul li i{
-	color: #59e2ae;
+	color: #376fe7;
 	font-size: 20px;
 	position: absolute;
 	top: 0;
@@ -480,8 +480,8 @@ header .navbar.sticky-header{
 	left: -1px;
 	right: -1px;
 	bottom: -1px;
-	border-top: 1px solid #59e2ae;
-	border-bottom: 1px solid #59e2ae;
+	border-top: 1px solid #376fe7;
+	border-bottom: 1px solid #376fe7;
 	transform: scale(0,1);
 	transition: all 0.6s;
 }
@@ -494,8 +494,8 @@ header .navbar.sticky-header{
 	left: -1px;
 	right: -1px;
 	bottom: -1px;
-	border-left: 1px solid #59e2ae;
-	border-right: 1px solid #59e2ae;
+	border-left: 1px solid #376fe7;
+	border-right: 1px solid #376fe7;
 	transform: scale(1,0);
 	transition: all 0.6s;
 }
@@ -506,7 +506,7 @@ header .navbar.sticky-header{
 }
 
 .service-single .icon-box{
-	color: #59e2ae;
+	color: #376fe7;
 	font-size: 60px;
 	line-height: 1em;
 	margin-bottom: 26px;
@@ -536,7 +536,7 @@ header .navbar.sticky-header{
 	color: #fff;
 	font-size: 18px;
 	font-weight: 400;
-	background: #59e2ae;
+	background: #376fe7;
 	padding: 14px 20px;
 	text-transform: uppercase;
 	margin-bottom: 50px;
@@ -567,7 +567,7 @@ header .navbar.sticky-header{
 }
 
 .experience-single h5{
-	color: #59e2ae;
+	color: #376fe7;
 	font-weight: 400;
 }
 
@@ -601,7 +601,7 @@ header .navbar.sticky-header{
 
 .education-pagination .swiper-pagination-bullet-active,
 .experience-pagination .swiper-pagination-bullet-active{
-	border-color: #59e2ae;
+	border-color: #376fe7;
 }
 
 .skill-single{
@@ -618,7 +618,7 @@ header .navbar.sticky-header{
 
 .skill-ratting{
 	font-size: 20px;
-	color: #59e2ae;
+	color: #376fe7;
 }
 
 .counter-single{
@@ -633,7 +633,7 @@ header .navbar.sticky-header{
 
 .counter-single .icon-box{
 	font-size: 50px;
-	color: #59e2ae;
+	color: #376fe7;
 	line-height: 80px;
 	margin-bottom: 10px;
 	width: 80px;
@@ -691,9 +691,9 @@ header .navbar.sticky-header{
 }
 
 .portfolio-nav ul li a.active-portfolio{
-	background: #59e2ae;
+	background: #376fe7;
 	color: #fff;
-	border-color: #59e2ae;
+	border-color: #376fe7;
 }
 
 .single-portfolio{
@@ -724,7 +724,7 @@ header .navbar.sticky-header{
 .single-portfolio-overlay h3{
 	font-weight: 400;
 	font-size: 16px;
-	color: #59e2ae;
+	color: #376fe7;
 	opacity: 0;
 	transition: all 0.8s;
 }
@@ -767,7 +767,7 @@ header .navbar.sticky-header{
 
 .mfp-content .content .desc h5{
 	font-size: 16px;
-	color: #59e2ae;
+	color: #376fe7;
 	font-weight: 400;
 	margin-bottom: 20px;
 }
@@ -788,8 +788,8 @@ header .navbar.sticky-header{
 }
 
 .btn-view-project:hover{
-	border-color: #59e2ae;
-	color: #59e2ae;
+	border-color: #376fe7;
+	color: #376fe7;
 	background: none;
 }
 
@@ -813,8 +813,8 @@ header .navbar.sticky-header{
 }
 
 .load-more-portfolio a:hover{
-	border-color: #59e2ae;
-	color: #59e2ae;
+	border-color: #376fe7;
+	color: #376fe7;
 }
 
 /***************************************/
@@ -853,8 +853,8 @@ header .navbar.sticky-header{
     left: -1px;
     right: -1px;
     bottom: -1px;
-    border-top: 1px solid #59e2ae;
-    border-bottom: 1px solid #59e2ae;
+    border-top: 1px solid #376fe7;
+    border-bottom: 1px solid #376fe7;
     transform: scale(0,1);
     transition: all 0.6s;
 }
@@ -867,8 +867,8 @@ header .navbar.sticky-header{
     left: -1px;
     right: -1px;
     bottom: -1px;
-    border-left: 1px solid #59e2ae;
-    border-right: 1px solid #59e2ae;
+    border-left: 1px solid #376fe7;
+    border-right: 1px solid #376fe7;
     transform: scale(1,0);
     transition: all 0.6s;
 }
@@ -914,8 +914,8 @@ header .navbar.sticky-header{
     left: -1px;
     right: -1px;
     bottom: -1px;
-    border-top: 1px solid #59e2ae;
-    border-bottom: 1px solid #59e2ae;
+    border-top: 1px solid #376fe7;
+    border-bottom: 1px solid #376fe7;
     transform: scale(0,1);
     transition: all 0.6s;
 }
@@ -928,8 +928,8 @@ header .navbar.sticky-header{
     left: -1px;
     right: -1px;
     bottom: -1px;
-    border-left: 1px solid #59e2ae;
-    border-right: 1px solid #59e2ae;
+    border-left: 1px solid #376fe7;
+    border-right: 1px solid #376fe7;
     transform: scale(1,0);
     transition: all 0.6s;
 }
@@ -943,7 +943,7 @@ header .navbar.sticky-header{
 
 .pricing-header .icon-box{
 	font-size: 40px;
-	color: #59e2ae;
+	color: #376fe7;
     line-height: 1em;
 	margin-bottom: 10px;
 }
@@ -995,14 +995,14 @@ header .navbar.sticky-header{
 
 .btn-buynow{
 	display: inline-block;
-	border: 1px solid #59e2ae;
-	color: #59e2ae;
+	border: 1px solid #376fe7;
+	color: #376fe7;
 	padding: 10px 30px;
 	transition: all 0.4s;
 }
 
 .btn-buynow:hover{
-	background: #59e2ae;
+	background: #376fe7;
 	color: #fff;
 }
 
@@ -1015,7 +1015,7 @@ header .navbar.sticky-header{
 	position: absolute;
     left: -120px;
     top: -70px;
-    background: #59e2ae;
+    background: #376fe7;
     width: 300px;
     color: #000000;
     padding: 6px;
@@ -1066,7 +1066,7 @@ header .navbar.sticky-header{
 	display: block;
 	width: 32px;
 	height: 32px;
-	background: #59e2ae;
+	background: #376fe7;
 	color: #fff;
 	line-height: 32px;
 	font-size: 14px;
@@ -1093,7 +1093,7 @@ header .navbar.sticky-header{
 .testimonial-header h4{
 	font-size: 18px;
 	font-weight: 400;
-	color: #59e2ae;
+	color: #376fe7;
 }
 
 .testimonial-single p{
@@ -1116,7 +1116,7 @@ header .navbar.sticky-header{
 }
 
 .testimonial-pagination .swiper-pagination-bullet-active{
-	background: #59e2ae;
+	background: #376fe7;
 }
 
 /*******************************************/
@@ -1136,7 +1136,7 @@ header .navbar.sticky-header{
 .newsletter-content h3{
     font-family: 'Berkshire Swash', cursive;
 	font-weight: normal;
-	color: #59e2ae;	
+	color: #376fe7;	
 }
 
 .newsletter-content p{
@@ -1177,7 +1177,7 @@ header .navbar.sticky-header{
 	width: 20%;
 	background: none;
 	border: none;
-	color: #59e2ae;
+	color: #376fe7;
 	font-size: 40px;
 	text-align: right;
 	padding: 0 30px;
@@ -1229,8 +1229,8 @@ header .navbar.sticky-header{
 	display: block;
 	width: 50px;
 	height: 50px;
-	background: #59e2ae;
-	border: 1px solid #59e2ae;
+	background: #376fe7;
+	border: 1px solid #376fe7;
 	font-size: 20px;
 	color: #fff;
 	line-height: 50px;
@@ -1245,7 +1245,7 @@ header .navbar.sticky-header{
 
 .blog-header-overlay a:hover{
 	background: none;
-	color: #59e2ae;
+	color: #376fe7;
 }
 
 .blog-header figure{
@@ -1289,7 +1289,7 @@ header .navbar.sticky-header{
 }
 
 .blog-footer ul li i{
-	color: #59e2ae;
+	color: #376fe7;
 	margin-right: 6px;
 }
 
@@ -1340,8 +1340,8 @@ header .navbar.sticky-header{
 .btn-contact{
 	background: none;
 	display: inline-block;
-    border: 1px solid #59e2ae;
-    color: #59e2ae;
+    border: 1px solid #376fe7;
+    color: #376fe7;
     padding: 12px 30px;
 	cursor: pointer;
 	margin-top: 20px;
@@ -1349,7 +1349,7 @@ header .navbar.sticky-header{
 }
 
 .btn-contact:hover{
-	background: #59e2ae;
+	background: #376fe7;
 	color: #fff;
 }
 
@@ -1377,8 +1377,8 @@ header .navbar.sticky-header{
     left: -1px;
     right: -1px;
     bottom: -1px;
-    border-top: 1px solid #59e2ae;
-    border-bottom: 1px solid #59e2ae;
+    border-top: 1px solid #376fe7;
+    border-bottom: 1px solid #376fe7;
     transform: scale(0,1);
     transition: all 0.6s;
 }
@@ -1391,8 +1391,8 @@ header .navbar.sticky-header{
     left: -1px;
     right: -1px;
     bottom: -1px;
-    border-left: 1px solid #59e2ae;
-    border-right: 1px solid #59e2ae;
+    border-left: 1px solid #376fe7;
+    border-right: 1px solid #376fe7;
     transform: scale(1,0);
     transition: all 0.6s;
 }
@@ -1418,7 +1418,7 @@ header .navbar.sticky-header{
 	width: 40px;
 	margin-left: -20px;
 	height: 3px;
-	background: #59e2ae;
+	background: #376fe7;
 	position: absolute;
 	left: 50%;
 	bottom: 0;
@@ -1444,14 +1444,13 @@ header .navbar.sticky-header{
 }
 
 .footer-logo h1{
-	font-family: 'Berkshire Swash', cursive;
     font-weight: normal;
     transition: all 0.3s;
     color: #fff;
 }
 
 .footer-logo h1 span{
-	color: #59e2ae;
+	color: #376fe7;
 }
 
 .footer-about{
@@ -1486,8 +1485,8 @@ header .navbar.sticky-header{
 
 .footer-social a:hover{
 	background: none;
-	border-color: #59e2ae;
-	color: #59e2ae;
+	border-color: #376fe7;
+	color: #376fe7;
 }
 
 .footer-copyright{
@@ -1522,7 +1521,7 @@ header .navbar.sticky-header{
 }
 
 .footer-copyright p a:hover{
-	color: #59e2ae;
+	color: #376fe7;
 }
 
 /*********************************/
